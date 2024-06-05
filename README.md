@@ -22,4 +22,5 @@ Over +1.000 users. <br>
 We do not have plans such as daily, weekly, monthly or demo/trial. <br>
 </p>
 
-
+# Supported Champions
+<p align="center"><img src="https://github.com/Flnsduvoe/LT-Scripts/assets/171859643/7ea789db-698f-4433-96a4-18d6ed62d909" /></p>
